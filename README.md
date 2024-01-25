@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Royal37. 
-- 👀 I’m interested in software development. 
-- 🌱 I’m currently learning cpp. 
+- 👋 Hi, I’m @Royal37.
+- 👨🏽‍💼 I'm a NOC Engineer at the moment.
+- 👀 I’m interested in software development, cybersecurity & web development. 
+- 🌱 I’m currently learning JavaScript, CCNP. 
 - 💞️ I’m looking to collaborate on cpp, sql, html, css and JavaScript.
 
 <!---
